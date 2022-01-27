@@ -31,8 +31,8 @@ Work Experience
     -	Conducting classes and workshops on English language skills development. 
 
   
-* April 2020 – July 2021: Graduate Research Assistant (Wireless Emerging Technology lab)
-  *University of Chittagong
+* April 2020 – July 2021: Graduate Research Assistant (Wireless Emerging Technology lab - University of Chittagong)
+ 
   * Duties:
     -	Research in cutting-edge wireless technologies and simulation through MATLAB
     -	Wireless Energy Harvesting, Simulataneous Information and Power Transmission, Cooperative Communication
