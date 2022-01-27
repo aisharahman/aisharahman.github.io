@@ -23,7 +23,7 @@ Work Experience
   * Duties: 
 
     - Assisted with cpurse conduction in ECE 440 - Introduction to Computer Networks.
-      - fundamental concepts in the design and implementation of computer communication networks, their protocols, and applications.
+    - fundamental concepts in the design and implementation of computer communication networks, their protocols, and applications.
 
   
 * August 2021 – Dec 2021: English Language Instructor (Brisbane PTE Study Centre)
