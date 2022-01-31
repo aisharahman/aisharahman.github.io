@@ -6,13 +6,11 @@ author_profile: true
 ---
 
 ---
-title: "Graduate Teaching Assistant"
-collection: teaching
-type: "Graduate course"
+<h2> Graduate Teaching Assistant <h2>
 
-venue: "University of New Mexico, Electrical and Computer Engineering Department"
-date: 2020-01-20
-location: "Albuquerque, NM, USA"
+
+University of New Mexico, Electrical and Computer Engineering Department
+Albuquerque, NM, USA
 ---
 
 ECE-440 Introduction to Computer Networks
