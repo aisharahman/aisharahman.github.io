@@ -1,4 +1,11 @@
 ---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+---
 title: "Graduate Teaching Assistant"
 collection: teaching
 type: "Graduate course"
