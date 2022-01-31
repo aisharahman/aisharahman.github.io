@@ -16,4 +16,4 @@ The course covers the fundamental concepts in the design and implementation of c
 
 ECE-524 Network Economics
 ======
-The course covers the fundamental concepts in the design and implementation of computer communication networks, their protocols, and applications.
+Topics covered in the course include expected utility theory, prospect theory, pricing theory and network externalities, elements of modern networking, standardization mechanisms of network pricing, control plane’s pricing mechanisms, introducing network economics in the cloud network as a service, defining and supporting user needs, Quality of Service etc.
