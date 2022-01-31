@@ -2,7 +2,7 @@
 title: "Graduate Teaching Assistant"
 collection: teaching
 type: "Graduate course"
-permalink: /graduate-teaching-assistantship
+
 venue: "University of New Mexico, Electrical and Computer Engineering Department"
 date: 2020-01-20
 location: "Albuquerque, NM, USA"
