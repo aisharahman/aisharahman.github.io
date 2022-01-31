@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fisayo Sangoleye"
+title                    : "Aisha B. Rahman"
 title_separator          : "-"
-name                     : &name "Fisayo Sangoleye"
+name                     : &name "Aisha B. Rahman"
 description              : &description "PhD Student in Computer Engineering at the University of New Mexico, NM, USA."
-url                      : https://sangoleyefisayo.github.io/
+url                      : https://aisharahman.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sangoleyefisayo/sangoleyefisayo.github.io"
+repository               : "aisharahman/aisharahman.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fisayo Sangoleye"
-  avatar           : "https://sangoleyefisayo.github.io/images/1577655579130.jpg"
+  name             : "Aisha B. Rahman"
+  avatar           : "https://aisharahman.github.io/images/avatar.jpg"
   bio              : "Ph.D. Student in Computer Engineering at the University of New Mexico, NM, USA."
   location         : "Albuquerque, New Mexico, USA"
   employer         : "University of New Mexico"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "fsangoleye@unm.edu"
+  email            : "arahman3@unm.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sangoleyefisayo"
+  github           : #"sangoleyefisayo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "fisayo-sangoleye/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : # "fisayo-sangoleye/"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "o_fisay0"
+  twitter          : # "o_fisay0"
   vine             :
   weibo            :
   xing             :
