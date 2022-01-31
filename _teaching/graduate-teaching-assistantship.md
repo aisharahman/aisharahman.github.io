@@ -9,8 +9,8 @@ author_profile: true
 <h2> Graduate Teaching Assistant <h2>
 
 
-University of New Mexico, Electrical and Computer Engineering Department
-Albuquerque, NM, USA
+Electrical and Computer Engineering Department, University of New Mexico
+
 ---
 
 ECE-440 Introduction to Computer Networks
