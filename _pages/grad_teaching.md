@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
+<!-- 
 venue: "University of New Mexico, Electrical and Computer Engineering Department"
 date: 2020-01-20
 location: "Albuquerque, NM, USA"
----
+--- -->
 
 ECE-440 Introduction to Computer Networks
 ======
