@@ -8,10 +8,12 @@ date: 2020-01-20
 location: "Albuquerque, NM, USA"
 ---
 
-Introduction to Computer Networks ECE440
+ECE-440 Introduction to Computer Networks
 ======
 The course covers the fundamental concepts in the design and implementation of computer communication networks, their protocols, and applications.
 
 ---
 
-
+ECE-524 Network Economics
+======
+The course covers the fundamental concepts in the design and implementation of computer communication networks, their protocols, and applications.
