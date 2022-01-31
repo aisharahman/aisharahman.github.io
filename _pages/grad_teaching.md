@@ -1,14 +1,10 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Graduate Teaching Assistant"
 permalink: /teaching/
 author_profile: true
 ---
 
----
-title: "Graduate Teaching Assistant"
-collection: teaching
-type: "Graduate course"
 
 venue: "University of New Mexico, Electrical and Computer Engineering Department"
 date: 2020-01-20
