@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ---
-<h2> Graduate Teaching Assistant <h2>
 
 
 Electrical and Computer Engineering Department, University of New Mexico
