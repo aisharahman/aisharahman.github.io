@@ -19,7 +19,11 @@ Education
 Work Experience
 ======
 
-* Jan. 2022 – Present: Teaching Assistant (University of New Mexico)
+* Feb. 2022 – Present: Vice Chair 
+  * IEEE Albuquerque Women in Engineering Affinity Group 
+    - Organizing and conducting monthly public talks, workshops, and other volunteering activities for promoting women engineers and scientists and inspiring girls around the world to follow their academic interests to a career in engineering.
+    - 
+* Jan. 2022 – May. 2022: Teaching Assistant (University of New Mexico)
   * ECE 440 - Introduction to Computer Networks 
     - Assisting in preparation and conduction of the course. The course covers the fundamental concepts in the design and implementation of computer communication networks, their protocols, and applications.
 
