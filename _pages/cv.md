@@ -18,7 +18,10 @@ Education
 
 Work Experience
 ======
-
+* May 2022 – Present: Graduate Research Assistant (University of New Mexico)
+  * Department of Electrical and Computer Engineering 
+    - Performance and Resource Optimization in Networks (PROTON) Lab.
+ 
 * Feb. 2022 – Present: Vice Chair 
   * IEEE Albuquerque Women in Engineering Affinity Group 
     - Organizing and conducting monthly public talks, workshops, and other volunteering activities for promoting women engineers and scientists and inspiring girls around the world to follow their academic interests to a career in engineering.
@@ -30,12 +33,10 @@ Work Experience
   * ECE 524 - Network Economics
     - Assisting in preparation and conduction of the course. Topics covered includes expected utility theory, prospect theory, pricing theory and network externalities, elements of modern networking, standardization mechanisms of network pricing, control plane’s pricing mechanisms, introducing network economics in the cloud network as a service, defining and supporting user needs, Quality of Service etc.
 
-  
 * August 2021 – Dec 2021: English Language Instructor (Brisbane PTE Study Centre)
   * Duties:
     -	Conducting classes and workshops on English language skills development. 
 
-  
 * April 2020 – July 2021: Graduate Research Assistant (Wireless Emerging Technology lab - University of Chittagong)
  
   * Duties:
