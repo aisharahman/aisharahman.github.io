@@ -9,14 +9,14 @@ permalink: /publications/
 
 2. Siraj, M. S., Rahman, A. B., Diamanti, M., Tsiropoulou, E. E., & Papavassiliou, S., "Alternative Positioning, Navigation, and Timing enabled by Games in Satisfaction Form and Reconfigurable Intelligent Surfaces", IEEE Systems Journal. (Under Review)
 
-3. Rahman, A. B., Kader, M. F., "A new energy harvesting scheme for multi-relay cooperative networks", Digital Signal Processing (Under Review)
+3. Rahman, A. B., & Kader, M. F. (2023). A new energy harvesting scheme for multi-relay cooperative networks. Digital Signal Processing, 133, 103846.
 
 
 <H2>Conference Publications</H2>
 
-1. Siraj, M. S., Rahman, A. B., Diamanti, M., Tsiropoulou, E. E., Papavassiliou, S., & Plusquelic, J., "Positioning, Navigation, and Timing enabled by Reconfigurable Intelligent Surfaces, Phase Shift Optimization, and Reinforcement Learning", IEEE MILCOM, 2022. (Accepted) 
+1. Siraj, M. S., Rahman, A. B., Diamanti, M., Tsiropoulou, E. E., Papavassiliou, S., & Plusquelic, J., "Positioning, Navigation, and Timing enabled by Reconfigurable Intelligent Surfaces, Phase Shift Optimization, and Reinforcement Learning", IEEE MILCOM, 2022. (Accepted)
 
-2. Rahman, A. B., Siraj, M. S., Kubiak, N., Tsiropoulou, E. E., & Papavassiliou, S., "Network Economics-based Crowdsourcing inOnline Social Networks", IEEE GLOBCOM, 2022. (Accepted)
+2. Rahman, A. B., Siraj, M. S., Kubiak, N., Tsiropoulou, E. E., and Papavassiliou, S., "Network Economics-based Crowdsourcing in Online Social Networks," GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 4655-4660, doi: 10.1109/GLOBECOM48099.2022.10001611.
 
 3. Rahman, A. B. and Kader, M. F., "Best Relay Transmission Aided Energy Harvesting in a Multi Relay Cooperative Network," 2020 IEEE Region 10 Symposium (TENSYMP), 2020, pp. 106-109, doi: 10.1109/TENSYMP50017.2020.9230985.
 
