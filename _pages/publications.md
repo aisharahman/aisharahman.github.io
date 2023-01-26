@@ -14,7 +14,7 @@ permalink: /publications/
 
 <H2>Conference Publications</H2>
 
-1. Siraj, M. S., Rahman, A. B., Diamanti, M., Tsiropoulou, E. E., Papavassiliou, S., & Plusquelic, J., "Positioning, Navigation, and Timing enabled by Reconfigurable Intelligent Surfaces, Phase Shift Optimization, and Reinforcement Learning", IEEE MILCOM, 2022. (Accepted)
+1. M. S. Siraj, A. B. Rahman, M. Diamanti, E. E. Tsiropoulou, S. Papavassiliou and J. Plusquellic, "Orchestration of Reconfigurable Intelligent Surfaces for Positioning, Navigation, and Timing," MILCOM 2022 - 2022 IEEE Military Communications Conference (MILCOM), Rockville, MD, USA, 2022, pp. 148-153, doi: 10.1109/MILCOM55135.2022.10017665.
 
 2. Rahman, A. B., Siraj, M. S., Kubiak, N., Tsiropoulou, E. E., and Papavassiliou, S., "Network Economics-based Crowdsourcing in Online Social Networks," GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 4655-4660, doi: 10.1109/GLOBECOM48099.2022.10001611.
 
