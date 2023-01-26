@@ -5,11 +5,11 @@ permalink: /publications/
 #author_profile: true
 ---
 <H2>Journal Publications</H2>
-1. P. Khan et al., "Machine Learning and Deep Learning Approaches for Brain Disease Diagnosis: Principles and Recent Advances," in IEEE Access, vol. 9, pp. 37622-37655, 2021, doi: 10.1109/ACCESS.2021.3062484.
+1. Rahman, A. B., & Kader, M. F., "A new energy harvesting scheme for multi-relay cooperative networks". Digital Signal Processing, 133, 103846, 2023.
 
 2. Siraj, M. S., Rahman, A. B., Diamanti, M., Tsiropoulou, E. E., & Papavassiliou, S., "Alternative Positioning, Navigation, and Timing enabled by Games in Satisfaction Form and Reconfigurable Intelligent Surfaces", IEEE Systems Journal. (Under Review)
 
-3. Rahman, A. B., & Kader, M. F., "A new energy harvesting scheme for multi-relay cooperative networks". Digital Signal Processing, 133, 103846, 2023.
+3. P. Khan et al., "Machine Learning and Deep Learning Approaches for Brain Disease Diagnosis: Principles and Recent Advances," in IEEE Access, vol. 9, pp. 37622-37655, 2021, doi: 10.1109/ACCESS.2021.3062484.
 
 
 <H2>Conference Publications</H2>
