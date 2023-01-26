@@ -9,7 +9,7 @@ permalink: /publications/
 
 2. Siraj, M. S., Rahman, A. B., Diamanti, M., Tsiropoulou, E. E., & Papavassiliou, S., "Alternative Positioning, Navigation, and Timing enabled by Games in Satisfaction Form and Reconfigurable Intelligent Surfaces", IEEE Systems Journal. (Under Review)
 
-3. Rahman, A. B., & Kader, M. F. (2023). A new energy harvesting scheme for multi-relay cooperative networks. Digital Signal Processing, 133, 103846.
+3. Rahman, A. B., & Kader, M. F., "A new energy harvesting scheme for multi-relay cooperative networks". Digital Signal Processing, 133, 103846, 2023.
 
 
 <H2>Conference Publications</H2>
