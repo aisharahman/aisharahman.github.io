@@ -18,11 +18,19 @@ Education
 
 Work Experience
 ======
+* Jan 2023 – Present: Project Assistant (University of New Mexico)
+  * Department of Electrical and Computer Engineering 
+    - Performance and Resource Optimization in Networks (PROTON) Lab.
+
+* August. 2022 – Present: Chair 
+  * IEEE Albuquerque Women in Engineering Affinity Group 
+    - Organizing and conducting monthly public talks, workshops, and other volunteering activities for promoting women engineers and scientists and inspiring girls around the world to follow their academic interests to a career in engineering.
+
 * Jan 2022 – Present: Graduate Research Assistant (University of New Mexico)
   * Department of Electrical and Computer Engineering 
     - Performance and Resource Optimization in Networks (PROTON) Lab.
  
-* Feb. 2022 – Present: Vice Chair 
+* Feb. 2022 – July 2022: Vice Chair 
   * IEEE Albuquerque Women in Engineering Affinity Group 
     - Organizing and conducting monthly public talks, workshops, and other volunteering activities for promoting women engineers and scientists and inspiring girls around the world to follow their academic interests to a career in engineering.
 
