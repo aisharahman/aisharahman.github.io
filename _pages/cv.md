@@ -22,7 +22,7 @@ Work Experience
 * Jan 2022 – Present: Graduate Research Assistant (University of New Mexico)
   * Department of Electrical and Computer Engineering 
     - Performance and Resource Optimization in Networks (PROTON) Lab.
-    - 
+    
 * Jan 2023 – May 2023: Project Assistant (University of New Mexico)
   * Department of Electrical and Computer Engineering 
     - Performance and Resource Optimization in Networks (PROTON) Lab.
