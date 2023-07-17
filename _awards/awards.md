@@ -4,7 +4,6 @@ title: "Honors and Awards"
 permalink: /awards/
 #author_profile: true
 ---
-<H2>Honors and Awards</H2>
 
 1. IEEE Albuquerque Section Outstanding Service Award 2023.
 <i>"For contributions in the <a href="https://r6.ieee.org/albuquerque-wie/" target="_blank">IEEE Women in Engineering Affinity Group Albuquerque Section</a>"<i>.
