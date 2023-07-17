@@ -6,6 +6,7 @@ permalink: /awards/
 ---
 <H2>Honors and Awards</H2>
 1. IEEE Albuquerque Section Outstanding Service Award 2023.
-<i>" For contributions in the <a href="https://r6.ieee.org/albuquerque-wie/" target="_blank">IEEE Women in Engineering Affinity Group Albuquerque Section</a> "<i>
+<i>" For contributions in the <a href="https://r6.ieee.org/albuquerque-wie/" target="_blank">IEEE Women in Engineering Affinity Group Albuquerque Section</a> "<i>.
+  
 2. <a href="https://community.cadence.com/cadence_blogs_8/b/corporate/posts/technology-leaders-of-tomorrow-meet-the-2022-women-in-technology-scholarship-recipients" target="_blank">Cadence Diversity in Technology Scholarship 2022</a>.
 <i>" For impressive academic achievements, thoughtful recommendations, and drive to shape the future of technology " <i> 
