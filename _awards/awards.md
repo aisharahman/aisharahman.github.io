@@ -11,8 +11,10 @@ permalink: /awards/
 2. <a href="https://community.cadence.com/cadence_blogs_8/b/corporate/posts/technology-leaders-of-tomorrow-meet-the-2022-women-in-technology-scholarship-recipients" target="_blank">Cadence Diversity in Technology Scholarship 2022</a>.
 <i>"For impressive academic achievements, thoughtful recommendations, and drive to shape the future of technology." <i>
 
-3. APECE Project Competition 2018, University of Chittagong.
+3. Nominated as a finalist for the LoboBITES Competition by the University of New Mexico 2022.
+
+4. APECE Project Competition 2018, University of Chittagong.
 <i>"First Runner Up, Project Showcasing" <i>
 
-4. EDU Engineering Day 2018, East Delta University.
+5. EDU Engineering Day 2018, East Delta University.
 <i> "Second Runner Up, Project Showcasing" <i>
