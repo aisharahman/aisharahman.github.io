@@ -11,7 +11,7 @@ permalink: /awards/
 2. <a href="https://community.cadence.com/cadence_blogs_8/b/corporate/posts/technology-leaders-of-tomorrow-meet-the-2022-women-in-technology-scholarship-recipients" target="_blank">Cadence Diversity in Technology Scholarship 2022</a>.
 <i>"For impressive academic achievements, thoughtful recommendations, and drive to shape the future of technology." <i>
 
-3. Nominated as a finalist for the LoboBITES Competition by the University of New Mexico 2022.
+3. Nominated as a finalist for the LoboBITES Competition by the University of New Mexico 2022, <i> Three minute presentation on a thesis, dissertation, or other substantial research project <i>.
 
 4. APECE Project Competition 2018, University of Chittagong.
 <i>"First Runner Up, Project Showcasing" <i>
