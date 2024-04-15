@@ -13,26 +13,36 @@ permalink: /publications/
 
 
 <H2>Conference Publications</H2>
+1. P. Charatsaris, A. Adesokan, A. B. Rahman, "TOPMG: Trust-Based Crowdsourcing through Multilateral Bargaining Game Theory", IEEE GLOBECOM 2024 (Under Review).
 
-1. A. B. Rahman, P. Charatsaris, E. E. Tsiropoulou, S. Papavassiliou, "Information-Centric Networking Cache Memory Allocation: A Network Economics Approach", IEEE GLOBECOM 2023. (Accepted)
-2. A. B. Rahman, J. Patrizi, P. Charatsaris, E. E. Tsiropoulou, S. Papavassiliou, "Bioinspired Dynamic Spectrum Management in 3D Networks", IEEE DCOSS-IoT 2023. (To appear)
+2. Y. S. Chen, A. B. Rahman, E. E. Tsiropoulou, "Aerial Integrated Access and Backhaul Networks", IEEE GLOBECOM 2024 (Under review).
+3. A. B. Rahman, Y. S. Chen, E. E. Tsiropoulou, S. Papavassiliou, "SynergyWave: Bandwidth Splitting and Power Control in Integrated Access and Backhaul Networks", IEEE ICC 2024 (To appear).
 
-3. M. S. Siraj, A. B. Rahman, P. Charatsaris, E. E. Tsiropoulou, S. Papavassiliou, "Positioning, Navigation, and Timing on the Air", IEEE DCOSS-IoT 2023. (To appear)
+4. A. B. Rahman, P. Charatsaris, E. E. Tsiropoulou, S. Papavassiliou, "Information-Centric Networking Cache Memory Allocation: A Network Economics Approach", IEEE GLOBECOM 2023. 
 
-4. A. B. Rahman, P. Charatsaris, M. S. Siraj, E. E. Tsiropoulou, "Symbiotic Content Caching in Next-Generation Information-Cantric Networking", IEEE DCOSS-IoT 2023. (To appear)
+5. A. B. Rahman, J. Patrizi, P. Charatsaris, E. E. Tsiropoulou, S. Papavassiliou, "Bioinspired Dynamic Spectrum Management in 3D Networks", IEEE DCOSS-IoT 2023. 
 
-5. A. B. Rahman, M. S. Siraj, E. E. Tsiropoulou, S. Papavassiliou, "Mutualistic Compute Continuum: A Network Economics Analysis", IEEE ICC, 2023. (To appear)
+6. M. S. Siraj, A. B. Rahman, P. Charatsaris, E. E. Tsiropoulou and S. Papavassiliou, "Positioning, Navigation, and Timing on the Air," 2023 19th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT), Pafos, Cyprus, 2023, pp. 661-668, doi: 10.1109/DCOSS-IoT58021.2023.00105. 
 
-6. A. Adesokan, M. S. Siraj, A. B. Rahman, E. E. Tsiropoulou, S. Papavassiliou, "How to become an Influencer in Social Networks", IEEE ICC 2023. (To appear)
+7. A. B. Rahman, P. Charatsaris, M. S. Siraj and E. E. Tsiropoulou, "Symbiotic Content Caching in Next-Generation Information-Centric Networking," 2023 19th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT), Pafos, Cyprus, 2023, pp. 414-421, doi: 10.1109/DCOSS-IoT58021.2023.00072. 
 
-7. M. S. Siraj, A. B. Rahman, M. Diamanti, E. E. Tsiropoulou, S. Papavassiliou, and J. Plusquellic, "Orchestration of Reconfigurable Intelligent Surfaces for Positioning, Navigation, and Timing," MILCOM 2022 - 2022 IEEE Military Communications Conference (MILCOM), Rockville, MD, USA, 2022, pp. 148-153, doi: 10.1109/MILCOM55135.2022.10017665.
+8. A. B. Rahman, M. S. Siraj, E. E. Tsiropoulou and S. Papavassiliou, "Mutualistic Compute Continuum: A Network Economics Analysis," 2023 IEEE International Conference on Communications Workshops (ICC Workshops), Rome, Italy, 2023, pp. 1565-1570, doi: 10.1109/ICCWorkshops57953.2023.10283544.
 
-8. A. B. Rahman, M. S. Siraj, N. Kubiak, E. E. Tsiropoulou and S. Papavassiliou, "Network Economics-based Crowdsourcing in Online Social Networks," GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 4655-4660, doi: 10.1109/GLOBECOM48099.2022.10001611.
+9. A. Adesokan, M. S. Siraj, A. B. Rahman, E. E. Tsiropoulou and S. Papavassiliou, "How to become an Influencer in Social Networks," ICC 2023 - IEEE International Conference on Communications, Rome, Italy, 2023, pp. 5570-5575, doi: 10.1109/ICC45041.2023.10279644.
 
-9. A. B. Rahman and M. F. Kader, "Best Relay Transmission Aided Energy Harvesting in a Multi Relay Cooperative Network," 2020 IEEE Region 10 Symposium (TENSYMP), Dhaka, Bangladesh, 2020, pp. 106-109, doi: 10.1109/TENSYMP50017.2020.9230985.
+10. M. S. Siraj, A. B. Rahman, M. Diamanti, E. E. Tsiropoulou, S. Papavassiliou, and J. Plusquellic, "Orchestration of Reconfigurable Intelligent Surfaces for Positioning, Navigation, and Timing," MILCOM 2022 - 2022 IEEE Military Communications Conference (MILCOM), Rockville, MD, USA, 2022, pp. 148-153, doi: 10.1109/MILCOM55135.2022.10017665.
 
-10. A. B. Rahman, M. S. Kamal and A. Islam, "Bridge Strength Preservation by Automatic Traffic Density Control: an IoT Application," 2019 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT), Dhaka, Bangladesh, 2019, pp. 1-5, doi: 10.1109/ICASERT.2019.8934520.
+11. A. B. Rahman, M. S. Siraj, N. Kubiak, E. E. Tsiropoulou and S. Papavassiliou, "Network Economics-based Crowdsourcing in Online Social Networks," GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 4655-4660, doi: 10.1109/GLOBECOM48099.2022.10001611.
 
+12. A. B. Rahman and M. F. Kader, "Best Relay Transmission Aided Energy Harvesting in a Multi Relay Cooperative Network," 2020 IEEE Region 10 Symposium (TENSYMP), Dhaka, Bangladesh, 2020, pp. 106-109, doi: 10.1109/TENSYMP50017.2020.9230985.
+
+13. A. B. Rahman, M. S. Kamal and A. Islam, "Bridge Strength Preservation by Automatic Traffic Density Control: an IoT Application," 2019 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT), Dhaka, Bangladesh, 2019, pp. 1-5, doi: 10.1109/ICASERT.2019.8934520.
+    
+<H2>Magazines</H2>
+1. E. E. Tsiropoulou, A. B. Rahman, M. S. Siraj, "HELIOCOMM: A Wireless Revolution in Concentrated Solar Power Systems", IEEE IT Professional, April 2024.
+
+<H2>Technical Reports</H2>
+1. E. E. Tsiropoulou, A. B. Rahman, M. S. Siraj. 2024. HELIOCOMM: Wireless Controls State-of-the-Art Report. Golden, CO: National Renewable Energy Laboratory. NREL/SR-5K00-88431. https://www.nrel.gov/docs/fy24osti/88431.pdf. 
 
 
 
