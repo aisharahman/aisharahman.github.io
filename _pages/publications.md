@@ -6,6 +6,7 @@ permalink: /publications/
 ---
 <H2>Journal Publications</H2>
 1. E. E. Tsiropoulou, A. B. Rahman, M. S. Siraj, "HELIOCOMM: A Wireless Revolution in Concentrated Solar Power Systems", IEEE IT Professional, April 2024.
+
 2. M. S. Siraj,   A.B. Rahman, M. Diamanti, E. E. Tsiropoulou, S. Papavassiliou, "Alternative Positioning, Navigation, andAlternative Positioning, Navigation, and Timing in Satisfaction Form and Reconfigurable Intelligent Surfaces, in IEEE Systems Journal, doi: 10.1109/JSYST.2023.3268989.
 
 3. A. B. Rahman, & M. F. Kader, "A new energy harvesting scheme for multi-relay cooperative networks". Digital Signal Processing, 133, p. 103846, 2023.
