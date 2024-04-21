@@ -5,15 +5,16 @@ permalink: /publications/
 #author_profile: true
 ---
 <H2>Journal Publications</H2>
-1. M. S. Siraj,   A.B. Rahman, M. Diamanti, E. E. Tsiropoulou, S. Papavassiliou, "Alternative Positioning, Navigation, andAlternative Positioning, Navigation, and Timing in Satisfaction Form and Reconfigurable Intelligent Surfaces, in IEEE Systems Journal, doi: 10.1109/JSYST.2023.3268989.
+1. E. E. Tsiropoulou, A. B. Rahman, M. S. Siraj, "HELIOCOMM: A Wireless Revolution in Concentrated Solar Power Systems", IEEE IT Professional, April 2024.
+2. M. S. Siraj,   A.B. Rahman, M. Diamanti, E. E. Tsiropoulou, S. Papavassiliou, "Alternative Positioning, Navigation, andAlternative Positioning, Navigation, and Timing in Satisfaction Form and Reconfigurable Intelligent Surfaces, in IEEE Systems Journal, doi: 10.1109/JSYST.2023.3268989.
 
-2. A. B. Rahman, & M. F. Kader, "A new energy harvesting scheme for multi-relay cooperative networks". Digital Signal Processing, 133, p. 103846, 2023.
+3. A. B. Rahman, & M. F. Kader, "A new energy harvesting scheme for multi-relay cooperative networks". Digital Signal Processing, 133, p. 103846, 2023.
 
-3. P. Khan et al., "Machine Learning and Deep Learning Approaches for Brain Disease Diagnosis: Principles and Recent Advances," in IEEE Access, vol. 9, pp. 37622-37655, 2021, doi: 10.1109/ACCESS.2021.3062484.
+4. P. Khan et al., "Machine Learning and Deep Learning Approaches for Brain Disease Diagnosis: Principles and Recent Advances," in IEEE Access, vol. 9, pp. 37622-37655, 2021, doi: 10.1109/ACCESS.2021.3062484.
 
 
 <H2>Conference Publications</H2>
-1. P. Charatsaris, A. Adesokan, A. B. Rahman, "TOPMG: Trust-Based Crowdsourcing through Multilateral Bargaining Game Theory", IEEE GLOBECOM 2024 (Under Review).
+1. P. Charatsaris, A. Adesokan, A. B. Rahman, E. E. Tsiropoulou, S. Papavassiliou, "TOPMG: Trust-Based Crowdsourcing through Multilateral Bargaining Game Theory", IEEE GLOBECOM 2024 (Under Review).
 
 2. Y. S. Chen, A. B. Rahman, E. E. Tsiropoulou, "Aerial Integrated Access and Backhaul Networks", IEEE GLOBECOM 2024 (Under review).
 3. A. B. Rahman, Y. S. Chen, E. E. Tsiropoulou, S. Papavassiliou, "SynergyWave: Bandwidth Splitting and Power Control in Integrated Access and Backhaul Networks", IEEE ICC 2024 (To appear).
@@ -38,8 +39,6 @@ permalink: /publications/
 
 13. A. B. Rahman, M. S. Kamal and A. Islam, "Bridge Strength Preservation by Automatic Traffic Density Control: an IoT Application," 2019 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT), Dhaka, Bangladesh, 2019, pp. 1-5, doi: 10.1109/ICASERT.2019.8934520.
     
-<H2>Magazines</H2>
-1. E. E. Tsiropoulou, A. B. Rahman, M. S. Siraj, "HELIOCOMM: A Wireless Revolution in Concentrated Solar Power Systems", IEEE IT Professional, April 2024.
 
 <H2>Technical Reports</H2>
 1. E. E. Tsiropoulou, A. B. Rahman, M. S. Siraj. 2024. HELIOCOMM: Wireless Controls State-of-the-Art Report. Golden, CO: National Renewable Energy Laboratory. NREL/SR-5K00-88431. https://www.nrel.gov/docs/fy24osti/88431.pdf. 
