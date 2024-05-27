@@ -17,8 +17,4 @@ ECE-440 Introduction to Computer Networks
 
 ---
 
-ECE-524 Network Economics
-======
-* Electrical and Computer Engineering, University of New Mexico
-    - Assisting in preparation and conduction of the course. Topics covered includes expected utility theory, prospect theory, pricing theory and network externalities, elements of modern networking, standardization mechanisms of network pricing, control plane’s pricing mechanisms, introducing network economics in the cloud network as a service, defining and supporting user needs, Quality of Service etc.
 
