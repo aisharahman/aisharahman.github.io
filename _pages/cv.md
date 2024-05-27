@@ -17,7 +17,7 @@ Education
 * B.Sc. in Electrical and Electronic Engineering, University of Chittagong, Chittagong, Bangladesh. - 2019
 
 
-Work Experience
+Professional Summary
 ======
 
 * Jan 2022 – Present: Graduate Research Assistant (University of New Mexico)
@@ -40,8 +40,6 @@ Work Experience
   * ECE 440 - Introduction to Computer Networks 
     - Assisting in preparation and conduction of the course. The course covers the fundamental concepts in the design and implementation of computer communication networks, their protocols, and applications.
 
-  * ECE 524 - Network Economics
-    - Assisting in preparation and conduction of the course. Topics covered includes expected utility theory, prospect theory, pricing theory and network externalities, elements of modern networking, standardization mechanisms of network pricing, control plane’s pricing mechanisms, introducing network economics in the cloud network as a service, defining and supporting user needs, Quality of Service etc.
 
 * August 2021 – Dec 2021: English Language Instructor (Brisbane PTE Study Centre)
   * Duties:
