@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Engineering, University of New Mexico, Albuquerque NM, USA. - 2026 (expected)
+* M.Sc. in Computer Engineering (with distinction), University of New Mexico, New Mexico, USA. - 2023
 * M.Sc. in Electrical and Electronic Engineering, University of Chittagong, Chittagong, Bangladesh. - 2021 
 * B.Sc. in Electrical and Electronic Engineering, University of Chittagong, Chittagong, Bangladesh. - 2019
 
