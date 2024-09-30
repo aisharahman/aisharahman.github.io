@@ -5,20 +5,21 @@ permalink: /publications/
 #author_profile: true
 ---
 <H2>Journal Publications</H2>
-1. E. E. Tsiropoulou, A. B. Rahman, M. S. Siraj, "HELIOCOMM: A Wireless Revolution in Concentrated Solar Power Systems", IEEE IT Professional, April 2024.
 
-2. M. S. Siraj,   A.B. Rahman, M. Diamanti, E. E. Tsiropoulou, S. Papavassiliou, "Alternative Positioning, Navigation, andAlternative Positioning, Navigation, and Timing in Satisfaction Form and Reconfigurable Intelligent Surfaces, in IEEE Systems Journal, doi: 10.1109/JSYST.2023.3268989.
+1. A. B. Rahman, M. S. Siraj, E. E. Trisopoulou, "Wireless Communications for Concentrated Solar Power Fields", IEEE Transactions on Green Communications and Networking (Under Review).
+2.  A. B. Rahman, A. M. Panteleaki, I. Anagnostopoulos, E. E. Trisopoulou, "Cloudonomics: Cloud Computing Economics Incentivizing Sustainable Cloud Usage", IEEE Transactions on Green Communications and Networking (Under Review).
+3. M. S. Siraj,   A.B. Rahman, M. Diamanti, E. E. Tsiropoulou, S. Papavassiliou, "Alternative Positioning, Navigation, andAlternative Positioning, Navigation, and Timing in Satisfaction Form and Reconfigurable Intelligent Surfaces, in IEEE Systems Journal, doi: 10.1109/JSYST.2023.3268989.
 
-3. A. B. Rahman, & M. F. Kader, "A new energy harvesting scheme for multi-relay cooperative networks". Digital Signal Processing, 133, p. 103846, 2023.
+4. A. B. Rahman, & M. F. Kader, "A new energy harvesting scheme for multi-relay cooperative networks", Digital Signal Processing, 133, p. 103846, 2023.
 
-4. P. Khan et al., "Machine Learning and Deep Learning Approaches for Brain Disease Diagnosis: Principles and Recent Advances," in IEEE Access, vol. 9, pp. 37622-37655, 2021, doi: 10.1109/ACCESS.2021.3062484.
+5. P. Khan et al., "Machine Learning and Deep Learning Approaches for Brain Disease Diagnosis: Principles and Recent Advances," in IEEE Access, vol. 9, pp. 37622-37655, 2021, doi: 10.1109/ACCESS.2021.3062484.
 
 
 <H2>Conference Publications</H2>
-1. P. Charatsaris, A. Adesokan, A. B. Rahman, E. E. Tsiropoulou, S. Papavassiliou, "TOPMG: Trust-Based Crowdsourcing through Multilateral Bargaining Game Theory", IEEE GLOBECOM 2024 (Under Review).
+1. P. Charatsaris, A. Adesokan, A. B. Rahman, E. E. Tsiropoulou, S. Papavassiliou, "TOPMG: Trust-Based Crowdsourcing through Multilateral Bargaining Game Theory", IEEE GLOBECOM 2024 (Accepted).
 
-2. Y. S. Chen, A. B. Rahman, E. E. Tsiropoulou, "Aerial Integrated Access and Backhaul Networks", IEEE GLOBECOM 2024 (Under review).
-3. A. B. Rahman, Y. S. Chen, E. E. Tsiropoulou, S. Papavassiliou, "SynergyWave: Bandwidth Splitting and Power Control in Integrated Access and Backhaul Networks", IEEE ICC 2024 (To appear).
+2. S. Tsikteris,  M. S. Siraj, A. B. Rahman, P. Charatsaris, E. E. Tsiropoulou, S. Papavassiliou, "Edge Computing Resource Allocation based on Trust and Multilateral Bargaining", 2024 IEEE 29th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (Accepted).
+3. A. B. Rahman, Y. S. Chen, E. E. Tsiropoulou, S. Papavassiliou, "SynergyWave: Bandwidth Splitting and Power Control in Integrated Access and Backhaul Networks", ICC 2024 - IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 31-36, doi: 10.1109/ICC51166.2024.10622392.
 
 4. A. B. Rahman, P. Charatsaris, E. E. Tsiropoulou, S. Papavassiliou, "Information-Centric Networking Cache Memory Allocation: A Network Economics Approach", IEEE GLOBECOM 2023. 
 
@@ -43,6 +44,9 @@ permalink: /publications/
 
 <H2>Technical Reports</H2>
 1. E. E. Tsiropoulou, A. B. Rahman, M. S. Siraj. 2024. HELIOCOMM: Wireless Controls State-of-the-Art Report. Golden, CO: National Renewable Energy Laboratory. NREL/SR-5K00-88431. https://www.nrel.gov/docs/fy24osti/88431.pdf. 
+
+<H2> Magazines </H2>
+1. E. E. Tsiropoulou, A. B. Rahman, M. S. Siraj, "HELIOCOMM: A Wireless Revolution in Concentrated Solar Power Systems", IEEE IT Professional, vol. 26, no. 3, pp. 73-79, May-June 2024, doi: 10.1109/MITP.2024.3389502.
 
 
 
