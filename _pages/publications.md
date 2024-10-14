@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 <H2>Journal Publications</H2>
 
-1. A. B. Rahman, M. S. Siraj, E. E. Trisopoulou, "Wireless Communications for Concentrated Solar Power Fields", IEEE Transactions on Green Communications and Networking (Under Review).
+1. A. B. Rahman, M. S. Siraj, E. E. Tsiropoulou, "Wireless Communications for Concentrated Solar Power Fields", IEEE Transactions on Green Communications and Networking (Under Review).
 2.  A. B. Rahman, A. M. Panteleaki, I. Anagnostopoulos, E. E. Trisopoulou, "Cloudonomics: Cloud Computing Economics Incentivizing Sustainable Cloud Usage", IEEE Transactions on Green Communications and Networking (Under Review).
 3. M. S. Siraj,   A.B. Rahman, M. Diamanti, E. E. Tsiropoulou, S. Papavassiliou, "Alternative Positioning, Navigation, andAlternative Positioning, Navigation, and Timing in Satisfaction Form and Reconfigurable Intelligent Surfaces, in IEEE Systems Journal, doi: 10.1109/JSYST.2023.3268989.
 
