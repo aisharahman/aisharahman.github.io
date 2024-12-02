@@ -24,7 +24,7 @@ permalink: /publications/
 
 4. P. Charatsaris, A. Adesokan, A. B. Rahman, E. E. Tsiropoulou, S. Papavassiliou, "TOPMG: Trust-Based Crowdsourcing through Multilateral Bargaining Game Theory", IEEE GLOBECOM 2024 (To appear).
 
-5. S. Tsikteris,  M. S. Siraj, A. B. Rahman, P. Charatsaris, E. E. Tsiropoulou, S. Papavassiliou, "Edge Computing Resource Allocation based on Trust and Multilateral Bargaining", 2024 IEEE 29th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (Accepted).
+5. S. Tsikteris,  M. S. Siraj, A. B. Rahman, P. Charatsaris, E. E. Tsiropoulou, S. Papavassiliou, "Edge Computing Resource Allocation based on Trust and Multilateral Bargaining", 2024 IEEE 29th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (To appear).
 6. A. B. Rahman, Y. S. Chen, E. E. Tsiropoulou, S. Papavassiliou, "SynergyWave: Bandwidth Splitting and Power Control in Integrated Access and Backhaul Networks", ICC 2024 - IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 31-36, doi: 10.1109/ICC51166.2024.10622392.
 
 7. A. B. Rahman, P. Charatsaris, E. E. Tsiropoulou, S. Papavassiliou, "Information-Centric Networking Cache Memory Allocation: A Network Economics Approach", IEEE GLOBECOM 2023. 
