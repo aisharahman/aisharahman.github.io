@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Engineering, University of New Mexico, Albuquerque NM, USA. - 2026 (expected)
+* Ph.D. in Computer Engineering, Arizona State University, Tempe, AZ, USA. - 2026 (expected)
 * M.Sc. in Computer Engineering (with distinction), University of New Mexico, New Mexico, USA. - 2023
 * M.Sc. in Electrical and Electronic Engineering, University of Chittagong, Chittagong, Bangladesh. - 2021 
 * B.Sc. in Electrical and Electronic Engineering, University of Chittagong, Chittagong, Bangladesh. - 2019
@@ -19,8 +19,11 @@ Education
 
 Professional Summary
 ======
-
-* Jan 2022 – Present: Graduate Research Assistant (University of New Mexico)
+* Jan 2025 – Present: Graduate Research Assistant (Arizona State University)
+  * Department of Electrical, Computer and Energy Engineering 
+    - Performance and Resource Optimization in Networks (PROTON) Lab.
+    - 
+* Jan 2022 – 2024: Graduate Research Assistant (University of New Mexico)
   * Department of Electrical and Computer Engineering 
     - Performance and Resource Optimization in Networks (PROTON) Lab.
     
@@ -28,10 +31,14 @@ Professional Summary
   * Department of Electrical and Computer Engineering 
     - Performance and Resource Optimization in Networks (PROTON) Lab.
 
-* August. 2022 – Present: Chair 
+* August 2022 – December 2024: Chair 
   * IEEE Albuquerque Women in Engineering Affinity Group 
     - Organizing and conducting monthly public talks, workshops, and other volunteering activities for promoting women engineers and scientists and inspiring girls around the world to follow their academic interests to a career in engineering.
- 
+      
+* December 2023 – December 2024: Vice Chair 
+  * EEE Albuquerque Section Communications Society and Computer Society Joint Chapter
+    - Organizing and conducting monthly public talks, workshops, and webinars.
+      
 * Feb. 2022 – July 2022: Vice Chair 
   * IEEE Albuquerque Women in Engineering Affinity Group 
     - Organizing and conducting monthly public talks, workshops, and other volunteering activities for promoting women engineers and scientists and inspiring girls around the world to follow their academic interests to a career in engineering.
@@ -53,7 +60,7 @@ Professional Summary
 
 * April 2020 – December 2020: Basic Computer Skills Instructor (Bangladesh Career Industry)
   * Duties:
-    - Basic Microsoft Suite skills, Graphic designing (Adobe Photshop, Adobe Illustrator, Canva), Beginner level video editting.
+    - Basic Microsoft Suite skills, Graphic designing (Adobe Photshop, Adobe Illustrator, Canva), Beginner level video editing.
  
 
  
