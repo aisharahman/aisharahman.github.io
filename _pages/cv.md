@@ -19,10 +19,9 @@ Education
 
 Professional Summary
 ======
-* Jan 2025 – Present: Graduate Research Assistant (Arizona State University)
+* Jan 2025 – Present: Graduate Research Associate (Arizona State University)
   * Department of Electrical, Computer and Energy Engineering 
     - Performance and Resource Optimization in Networks (PROTON) Lab.
-    - 
 * Jan 2022 – 2024: Graduate Research Assistant (University of New Mexico)
   * Department of Electrical and Computer Engineering 
     - Performance and Resource Optimization in Networks (PROTON) Lab.
@@ -47,20 +46,11 @@ Professional Summary
   * ECE 440 - Introduction to Computer Networks 
     - Assisting in preparation and conduction of the course. The course covers the fundamental concepts in the design and implementation of computer communication networks, their protocols, and applications.
 
-
-* August 2021 – Dec 2021: English Language Instructor (Brisbane PTE Study Centre)
-  * Duties:
-    -	Conducting classes and workshops on English language skills development. 
-
 * April 2020 – July 2021: Graduate Research Assistant (Wireless Emerging Technology lab - University of Chittagong)
  
   * Duties:
     -	Research in cutting-edge wireless technologies and simulation through MATLAB
     -	Wireless Energy Harvesting, Simulataneous Information and Power Transmission, Cooperative Communication
 
-* April 2020 – December 2020: Basic Computer Skills Instructor (Bangladesh Career Industry)
-  * Duties:
-    - Basic Microsoft Suite skills, Graphic designing (Adobe Photshop, Adobe Illustrator, Canva), Beginner level video editing.
- 
 
  
