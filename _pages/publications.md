@@ -8,12 +8,13 @@ permalink: /publications/
 
 1. A. B. Rahman, A. M. Panteleaki, I. Anagnostopoulos, E. E. Trisopoulou, "Cloudonomics: Cloud Computing Economics Incentivizing Sustainable Cloud Usage", IEEE Transactions on Sustainable Computing (Under Review).
 2. A. B. Rahman, P. Charatsaris, E. E. Tsiropoulou, S. Papavassiliou "Symbiotic Resource Pricing in the Computing Continuum Era", in IEEE Transactions on Mobile Computing,  doi: 10.1109/TMC.2025.3542017.
-3. A. B. Rahman, M. S. Siraj, E. E. Tsiropoulou, "Wireless Communications for Concentrated Solar Power Fields", IEEE Transactions on Green Communications and Networking (Accepted).
-4. M. S. Siraj,   A.B. Rahman, M. Diamanti, E. E. Tsiropoulou, S. Papavassiliou, "Alternative Positioning, Navigation, andAlternative Positioning, Navigation, and Timing in Satisfaction Form and Reconfigurable Intelligent Surfaces, in IEEE Systems Journal, doi: 10.1109/JSYST.2023.3268989.
+3. A. B. Rahman, M. S. Siraj, E. E. Tsiropoulou, "Wireless Communications for Concentrated Solar Power Fields," in IEEE Transactions on Green Communications and Networking, doi: 10.1109/TGCN.2025.3526999.
+4. S. Tsikteris, A. B. Rahman, M. S. Siraj, E. E. Tsiropoulou, "TRUST-ME: Trust-Based Resource Allocation and Server Selection in Multi-Access Edge Computing". Future Internet 2024, 16, 278. https://doi.org/10.3390/fi16080278
+5. M. S. Siraj,   A.B. Rahman, M. Diamanti, E. E. Tsiropoulou, S. Papavassiliou, "Alternative Positioning, Navigation, andAlternative Positioning, Navigation, and Timing in Satisfaction Form and Reconfigurable Intelligent Surfaces, in IEEE Systems Journal, doi: 10.1109/JSYST.2023.3268989.
 
-5. A. B. Rahman, & M. F. Kader, "A new energy harvesting scheme for multi-relay cooperative networks", Digital Signal Processing, 133, p. 103846, 2023.
+6. A. B. Rahman, & M. F. Kader, "A new energy harvesting scheme for multi-relay cooperative networks", Digital Signal Processing, 133, p. 103846, 2023.
 
-6. P. Khan et al., "Machine Learning and Deep Learning Approaches for Brain Disease Diagnosis: Principles and Recent Advances," in IEEE Access, vol. 9, pp. 37622-37655, 2021, doi: 10.1109/ACCESS.2021.3062484.
+7. P. Khan et al., "Machine Learning and Deep Learning Approaches for Brain Disease Diagnosis: Principles and Recent Advances," in IEEE Access, vol. 9, pp. 37622-37655, 2021, doi: 10.1109/ACCESS.2021.3062484.
 
 
 <H2>Conference Publications</H2>
