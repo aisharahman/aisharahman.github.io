@@ -22,6 +22,9 @@ Professional Summary
 * Jan 2025 – Present: Graduate Research Associate (Arizona State University)
   * Department of Electrical, Computer and Energy Engineering 
     - Performance and Resource Optimization in Networks (PROTON) Lab.
+* May 2025 – Aug. 2025: Graduate Summer Intern 
+  * Idaho National Laboratory
+    - Vehicle-Grid Integration, Advanced Transportation Department. 
 * Jan 2022 – 2024: Graduate Research Assistant (University of New Mexico)
   * Department of Electrical and Computer Engineering 
     - Performance and Resource Optimization in Networks (PROTON) Lab.
